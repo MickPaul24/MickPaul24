@@ -13,8 +13,8 @@
 🚀 I’m a code-slinging software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee.<br><br>
 
 📊 When I’m not building stanning UIs or architecting backends, I’m on the charts marking AOI and sketching Fibs.<br>
-🎌 I dive deep into anime worlds like it’s second nature — from Tokyo streets to demon realms.<br>
-🎧 I live on music, thrive on caffeine, and write my best code when the world’s asleep.<br><br>
+🎌 I dive deep into pure PA like it’s second nature — from London to New York session and then grab some Asia.<br>
+🎧 I live on music, thrive on candles, and write my best code when the world’s asleep.<br><br>
 
 💻 <b>Languages?</b> I speak HTML, CSS, JS, Java, C#, PHP, MS SQL and sarcasm😂.<br>
 🎨 <b>Tools?</b> Canva, VSCode, VisualStudio <br>
