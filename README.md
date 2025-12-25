@@ -16,8 +16,8 @@
 🎌 I dive deep into anime worlds like it’s second nature — from Tokyo streets to demon realms.<br>
 🎧 I live on music, thrive on caffeine, and write my best code when the world’s asleep.<br><br>
 
-💻 <b>Languages?</b> I speak HTML, CSS, JS, Java, C++, React, Node, TypeScript, PHP, MongoDB… and sarcasm.<br>
-🎨 <b>Tools?</b> Figma, VSCode, Illustrator — my digital dojo.<br>
+💻 <b>Languages?</b> I speak HTML, CSS, JS, Java, C#, PHP, MS SQL and sarcasm😂.<br>
+🎨 <b>Tools?</b> Canva, VSCode, VisualStudio <br>
 🧠 <b>OS of choice?</b> Linux. Obviously.<br><br>
 
 In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
