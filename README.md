@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Hi+I'm+Abaasa+Byoona+%F0%9F%91%8B;A+Full-Stack+Developer+and+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Hi+I'm+Mick+Paul+%F0%9F%91%8B;A+Full-Stack+Developer+and+Engineer" alt="Typing SVG" />
 </p>
 
 <table>
