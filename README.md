@@ -10,7 +10,7 @@
 
 <h1>💫 About Me</h1>
 
-👾 <b>Who is Abaasa Byoona?</b><br>
+👾 <b>Who is MickPaul?</b><br>
 🚀 I’m a code-slinging software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee.<br><br>
 
 🏀 When I’m not building beautiful UIs or architecting backends, I’m on the court throwing dimes and draining threes.<br>
