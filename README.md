@@ -39,7 +39,6 @@ In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
 # 📊 GitHub Stats:
 <div style="margin: 40px 0;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MickPaul24&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=1e293b&title_color=6366f1&icon_color=8b5cf6&text_color=f1f5f9&border_color=6366f1" alt="GitHub Stats" style="border-radius: 15px;" />
     <img src="https://streak-stats.demolab.com/?user=MickPaul24&theme=radical&hide_border=true&background=1e293b&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=f1f5f9" alt="GitHub Streak" style="border-radius: 15px;" />
     
   </div>
