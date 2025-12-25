@@ -26,7 +26,7 @@
 🎨 <b>Tools?</b> Canva, VSCode, VisualStudio <br>
 🧠 <b>OS of choice?</b> Windows. Somewhat Linux.<br><br>
 
-In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
+In short: I build, I swing, I sleep — all with a keyboard and a few mouse clicks.
 
 </td>
   </tr>
