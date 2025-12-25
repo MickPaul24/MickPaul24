@@ -44,7 +44,7 @@ In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
     
   </div>
 </div>
-</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MickPaul24&icon=0&color=0)](https://visitcount.itsvg.in)
 
