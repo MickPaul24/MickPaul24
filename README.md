@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Hi+I'm+MickPaul+%F0%9F%91%8B;A+Full-Stack+Developer+and+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Hi+I'm+MickPaul+%F0%9F%91%8B;A+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <table>
@@ -11,7 +11,7 @@
 <h1>💫 About Me</h1>
 
 👾 <b>Who is MickPaul?</b><br>
-🚀 I’m a code-slinging software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee.<br><br>
+🚀 I’m a focused software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee.<br><br>
 
 📊 When I’m not building stanning UIs or architecting backends, I’m on the charts marking AOI and sketching Fibs.<br>
 🎌 I dive deep into pure PA like it’s second nature — from London to New York session and then grab some Asia.<br>
