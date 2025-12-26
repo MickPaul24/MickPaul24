@@ -45,16 +45,7 @@ In short: I build, I swing, I sleep — all with a keyboard and a few mouse clic
 ![](https://github-readme-stats.vercel.app/api?username=MickPaul24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MickPaul24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MickPaul24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- <div style="margin: 40px 0;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
-    <img src="https://streak-stats.demolab.com/?user=MickPaul24&theme=radical&hide_border=true&background=1e293b&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=f1f5f9" alt="GitHub Streak" style="border-radius: 15px;" /> -->
-    <!-- <img src="https://streak-stats.demolab.com/?user=MickPaul24&theme=radical&hide_border=true&background=1e293b&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=f1f5f9" /> -->
-    
-  </div>
-</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=MickPaul24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
