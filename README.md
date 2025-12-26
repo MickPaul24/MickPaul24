@@ -45,7 +45,8 @@ In short: I build, I swing, I sleep — all with a keyboard and a few mouse clic
 
 <div style="margin: 40px 0;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
-    <img src="https://streak-stats.demolab.com/?user=MickPaul24&theme=radical&hide_border=true&background=1e293b&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=f1f5f9" alt="GitHub Streak" style="border-radius: 15px;" />
+    <!-- <img src="https://streak-stats.demolab.com/?user=MickPaul24&theme=radical&hide_border=true&background=1e293b&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=f1f5f9" alt="GitHub Streak" style="border-radius: 15px;" /> -->
+    <img src="https://streak-stats.demolab.com/?user=MickPaul24&theme=radical&hide_border=true&background=1e293b&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=f1f5f9" />
     
   </div>
 </div>
