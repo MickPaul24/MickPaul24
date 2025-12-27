@@ -67,4 +67,4 @@ In short: I build, I swing, I sleep — all with a keyboard and a few mouse clic
 
 ---
 
-### 🔥 Powered by Midnight, Coffee & Keyboard Clicks
+### 🔥 Powered by Growing Pains.
