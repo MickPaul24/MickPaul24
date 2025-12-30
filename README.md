@@ -33,6 +33,8 @@ In short: I build, I swing, I sleep — all with a keyboard and a few mouse clic
 </table>
 
 <div align="center">
+
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickpaul-kuteesa-b7a0bb333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mickalexan24@gmail.com) 
 
