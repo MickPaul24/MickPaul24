@@ -23,7 +23,7 @@
 🎧 I live on music, thrive on candles, and write my best code when the world’s asleep.<br><br>
 
 💻 <b>Languages?</b> I speak HTML, CSS, JS, Java, C#, PHP, SQL and chartara📊😂.<br>
-🎨 <b>Tools?</b> Canva, VSCode, VisualStudio <br>
+🎨 <b>Tools?</b> Git/Github, Canva, VSCode, VisualStudio <br>
 🧠 <b>OS of choice?</b> Windows. Somewhat Linux.<br><br>
 
 Simply put: I build, I swing, I sleep — all with a keyboard and a few mouse clicks.
