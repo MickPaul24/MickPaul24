@@ -69,10 +69,7 @@ Simply put: I build, I swing, I sleep — all with a keyboard and a few mouse cl
   <a href="mailto:mickalexan24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MickPaul24"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
----
-<div>
-  <video src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlkYjFkM3p3OWhzYXd3d3o0MTJkYXFtb2pqMnBuMDQxd2hmc243YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing SVG" />
-</div>
+
 ---
 
 ### 🔥 Powered by Growing Pains.
