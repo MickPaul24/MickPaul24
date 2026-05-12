@@ -2,7 +2,6 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Hi+I'm+MickPaul+%F0%9F%91%8B;A+Software+Engineering+Student" alt="Typing SVG" />
-  <video src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlkYjFkM3p3OWhzYXd3d3o0MTJkYXFtb2pqMnBuMDQxd2hmc243YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing SVG" />
 </p>
 
 <table>
@@ -70,7 +69,10 @@ Simply put: I build, I swing, I sleep — all with a keyboard and a few mouse cl
   <a href="mailto:mickalexan24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MickPaul24"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
+---
+<div>
+  <video src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlkYjFkM3p3OWhzYXd3d3o0MTJkYXFtb2pqMnBuMDQxd2hmc243YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing SVG" />
+</div>
 ---
 
 ### 🔥 Powered by Growing Pains.
