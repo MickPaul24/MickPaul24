@@ -1,6 +1,6 @@
 
 <!-- Banner -->
-<p align="center">
+<p align="">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Hi+I'm+MickPaul+%F0%9F%91%8B;A+Software+Engineering+Student" alt="Typing SVG" />
   <video src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlkYjFkM3p3OWhzYXd3d3o0MTJkYXFtb2pqMnBuMDQxd2hmc243YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing SVG" />
 </p>
