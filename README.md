@@ -22,7 +22,7 @@
 🎌 I dive deep into pure PA like it’s second nature — from London to New York session and then grab some Asia.<br>
 🎧 I live on music, thrive on candles, and write my best code when the world’s asleep.<br><br>
 
-💻 <b>Languages?</b> I speak HTML, CSS, JS, Java, C#, PHP, MS SQL and sarcasm😂.<br>
+💻 <b>Languages?</b> I speak HTML, CSS, JS, Java, C#, PHP, SQL and chartara📊😂.<br>
 🎨 <b>Tools?</b> Canva, VSCode, VisualStudio <br>
 🧠 <b>OS of choice?</b> Windows. Somewhat Linux.<br><br>
 
